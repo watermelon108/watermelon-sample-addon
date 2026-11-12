@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "demo001",
+      "type": "movie",
+      "name": "Big Buck Bunny",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/400px-Big_buck_bunny_poster_big.jpg",
+      "description": "A short animated film by the Blender Foundation. Free to use under CC BY 3.0.",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "demo002",
+      "type": "movie",
+      "name": "Sintel",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/400px-Sintel_poster.jpg",
+      "description": "An animated short by the Blender Foundation. Free under CC BY 3.0.",
+      "releaseInfo": "2010"
+    }
+  ]
+}
