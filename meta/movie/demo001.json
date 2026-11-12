@@ -3,7 +3,7 @@
     "id": "demo001",
     "type": "movie",
     "name": "Big Buck Bunny",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/400px-Big_buck_bunny_poster_big.jpg",
+    "poster": "https://watermelon108.github.io/watermelon-sample-addon/posters/bunny.jpg",
     "description": "A short animated film by the Blender Foundation. Free to use under CC BY 3.0.",
     "releaseInfo": "2008"
   }
