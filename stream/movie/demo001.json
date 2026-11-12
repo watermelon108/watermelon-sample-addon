@@ -1,8 +1,8 @@
 {
   "streams": [
     {
-      "title": "720p (MP4)",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "title": "360p (MP4, 1 MB)",
+      "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
     }
   ]
 }
