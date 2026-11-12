@@ -1,0 +1,12 @@
+{
+  "id": "com.watermelon108.sample",
+  "version": "1.0.0",
+  "name": "Watermelon Sample",
+  "description": "Demo catalog for testing Watermelon",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["movie"],
+  "idPrefixes": ["demo"],
+  "catalogs": [
+    { "type": "movie", "id": "popular", "name": "Popular" }
+  ]
+}
